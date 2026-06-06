@@ -154,7 +154,7 @@ while True:
     user_input = input("You: ").strip()
 
     if user_input.lower() in ("quit", "exit", "q"):
-        print("Goodbye!")
+        print("GoodBye!")
         break
 
     if not user_input:
